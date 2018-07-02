@@ -8,6 +8,10 @@ Image-based search is a valuable tool that is closely tied to the computer visio
 Our system is focused on the specific problems of matching sketched query images to a database of sketches and classifying those query images. The work is meaningful because it demonstrates the potential of the computer to classify and compare hand-drawn sketches,
 which are imperfect and sparse relative to actual photos.
 
+Software Requirements
+-------------------
+Python 2.7 environment with modules like cv2(Open-CV), numpy, Tkinter, pickle and PIL installed.
+
 USAGE
 ------
 The `gui.py` is the main application file through which you would run the application. Opening the application you would get a paint kind of small window where you can draw your sketch. After drawing the sketch you just need to click the process button to get the most similar image to your sketch from your collection of images. 
