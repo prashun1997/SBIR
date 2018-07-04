@@ -32,4 +32,4 @@ The utility of derieving images from sketches finds many utility like image sear
 
 <br><br>
 
-Hope you will enjoy running the applcation and you will find it informative to learn about computer vision and its scope.
+Hope you will enjoy running the application and you will find it informative to learn about computer vision and its scope.
