@@ -1,4 +1,4 @@
-# SBIR
+# SKETCH IT
 Sketch Based Image Recognition System
 
 
